@@ -7,11 +7,13 @@ d = {1:"nam",2:"sp"}
 print(d)
 
 
-r = [1,2,3,4,5,6]
+r = [1,2,3,4,5,67]
 print(r)
 
 
 
 df =  {"namratha":"hey you can do it in 6 months you will be unrecognizable"}
 print(df)
+
+print("hi how are you")
 
