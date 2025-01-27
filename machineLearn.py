@@ -17,4 +17,12 @@ print(df)
 
 print("hi how are you")
 
+
 print("working on the stashing now ")
+
+
+print("created the stash branch and started learning stashing")
+
+
+
+
